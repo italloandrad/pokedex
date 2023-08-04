@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+# Pokédex em ReactJS
+## Introdução
+Este é um projeto de Pokedéx desenvolvido em ReactJS que consome a API Pokemon para exibir informações sobre diferentes pokemons.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Visão Geral
+A Pokedéx é uma aplicação web que permite aos usuários explorar informações sobre os diversos pokemons existentes. Através da integração com a API Pokemon, podemos exibir detalhes como nome, tipo, habilidades e imagem de cada pokemon.
 
-## Available Scripts
+## Funcionalidades
+Listagem de pokemons com informações básicas
+Visualização detalhada de um pokemon específico
+Pesquisa de pokemons por nome ou número
+Filtragem de pokemons por tipo
 
-In the project directory, you can run:
+## Tecnologias utilizadas
+ReactJS: Biblioteca JavaScript para construção de interfaces de usuário interativas.
+[API Pokemon] (https://pokeapi.co/): Fonte de dados que provê informações sobre os pokemons.
+Material-UI: Biblioteca de componentes React para estilização e aprimoramento da interface.
+Axios: Biblioteca para fazer requisições HTTP de forma mais simples e fácil.
 
-### `npm start`
+## Contribuição
+Contribuições são bem-vindas! Se você encontrar algum bug, tiver alguma ideia para melhorar o projeto ou desejar adicionar novas funcionalidades, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Imagens
+![image](https://github.com/italloandrad/pokedex/assets/63079674/d7d66ebd-6378-456c-8fac-bc55d6049b51)
+![image](https://github.com/italloandrad/pokedex/assets/63079674/141e8596-e279-4e17-b48d-c5387d6707cd)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## LINK DO PROJETO ONLINE EM
+https://pokedex-italloandrade.vercel.app/
